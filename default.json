@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Info</>",
+          "buttontext": "Info",
           "title1": "Welcome to Oblivion Ark!",
           "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explination.",
           "imageurl": "https://media.istockphoto.com/id/1151082661/vector/retro-sci-fi-background-futuristic-landscape-of-the-80s-digital-cyber-surface-suitable-for.jpg?s=612x612&w=0&k=20&c=4HbMZEmxF08zcS_NgSXDKBJXsWSZTAXRKuC1UNvlOQY="
@@ -36,7 +36,7 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Shop</>",
+          "buttontext": "Shop",
           "title1": "Shop Info",
           "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explination.",
           "imageurl": "https://media.istockphoto.com/id/1151082661/vector/retro-sci-fi-background-futuristic-landscape-of-the-80s-digital-cyber-surface-suitable-for.jpg?s=612x612&w=0&k=20&c=4HbMZEmxF08zcS_NgSXDKBJXsWSZTAXRKuC1UNvlOQY="
