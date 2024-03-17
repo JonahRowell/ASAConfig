@@ -1,24 +1,24 @@
 {
   "WBUI2": {
     "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://cdn.discordapp.com/attachments/557303093826420759/970097301211201587/867867505473093672.png?ex=66089984&is=65f62484&hm=914ba29ad4eaccac6dd0fd31e3814007efe48ee43b5c947e1ba3209073741c7b&",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 60,
+      "IconURL": "https://cdn.discordapp.com/attachments/557303093826420759/970097301211201587/867867505473093672.png?ex=66089984&is=65f62484&hm=914ba29ad4eaccac6dd0fd31e3814007efe48ee43b5c947e1ba3209073741c7b&",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
     "tabs": [
       {
         "tab1": {
           "layout": 1,
           "buttontext": "Info",
           "title1": "Welcome to Oblivion Ark!",
-          "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explination.",
+          "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explanation.",
           "imageurl": "https://media.istockphoto.com/id/1151082661/vector/retro-sci-fi-background-futuristic-landscape-of-the-80s-digital-cyber-surface-suitable-for.jpg?s=612x612&w=0&k=20&c=4HbMZEmxF08zcS_NgSXDKBJXsWSZTAXRKuC1UNvlOQY="
         }
       },
@@ -38,10 +38,10 @@
           "layout": 1,
           "buttontext": "Shop",
           "title1": "Shop Info",
-          "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explination.",
+          "text1": "Join our Discord for important server info, donations, recruitment, and trading! Discord.gg/OblivionArk\n\nMake sure to read all rules listed in the Rules tab\n\nOblivion Ark is one of the oldest Ark servers, originally founded in 2018 Oblivion has had over 20 seasons on Ark Survival Evolved and is well known in the Xbox/Windows Ark community.\n\nFor in-game support create a ticket in the Discord and our staff will be happy to assist you. \n\nOblivion Ark maintains an in-game shop where credits can be earned through various methods or can be acquired by donating to the server. For more information about the shop click the Shop tab or join our Discord for a more detailed explanation.",
           "imageurl": "https://media.istockphoto.com/id/1151082661/vector/retro-sci-fi-background-futuristic-landscape-of-the-80s-digital-cyber-surface-suitable-for.jpg?s=612x612&w=0&k=20&c=4HbMZEmxF08zcS_NgSXDKBJXsWSZTAXRKuC1UNvlOQY="
         }
-      },
+      }
     ],
     "links": [
       {
@@ -49,7 +49,7 @@
           "text": "Link to discord",
           "url": "https://discord.com/invite/EBM6gbx"
         }
-      },
+      }
     ]
   }
 }
